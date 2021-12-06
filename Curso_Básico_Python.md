@@ -10,4 +10,26 @@ Un **programa de computadora** es una secuencia de instrucciones que se le da
 
 ## Especialidades del desarrollo de sofware
 
-Para elegir un lenguage de programación debemos primero pensar en lo que queremos realizar.
+Para elegir un lenguaje de programación debemos primero pensar en lo que queremos realizar. Existen distintas áreas de especialización en la tecnología y en cada una de estas hay ciertos lenguajes de programación predilectos debido a su desempeño en ciertas tareas que demanda dicha especialidad.
+
+Algunas de estas especialidades son:
+
+**Frontend**: Es el campo que se encarga de llevar el diseño de una aplicación o de un sitio web a código.
+
+**Internet of Things (IOT)**: Se encarga de darle la capacidad de conectarse a internet a los objetos cotidianos, como los electrodomésticos o robots.
+
+**Backend**: Es el campo a partir del cual se crea la lógica a través de la que funciona una aplicación, esta lógica se hospeda en un servidor.
+
+**DevOps**: Área encargada de manejar el servidor. Controlan toda la infraestructura en base a la cual funciona una una aplicación
+
+**Data science**:  Consiste en la toma de grandes volúmenes de información para de esa manera resolver problemas de la manera más eficiente posible.
+
+**Inteligencia artificial**: Se centra en enseñarle a la computadora a aprender a resolver problemas, de esta manera se logra cierto nivel autonomía frente a los humanos.
+
+**Desarrollo móvil**: Se encarga de crear aplicaciones que serán almacenadas en la PlayStore o AppStore, y que podremos hacer uso de ellas desde nuestros smartphones.
+
+**Video juegos**: Se encarga de combinar la programación, el diseño y la música para generar grandes experiencias a los usuarios.
+
+En partícular Python destaca en **IOT**, **Inteligencia artificial**, **Backend** y **Data science**. Es uno de los lenguajes de programación mas usado estando presente en companias como Google, Spotify, Platzi etc.
+
+Sus principales ventajas son la fácilidad de su aprendizaje, el fomento de las buenas prácticas de programación y la elegancia de su sintaxis.
