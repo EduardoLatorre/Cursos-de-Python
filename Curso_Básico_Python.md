@@ -33,3 +33,15 @@ Algunas de estas especialidades son:
 En partícular Python destaca en **IOT**, **Inteligencia artificial**, **Backend** y **Data science**. Es uno de los lenguajes de programación mas usado estando presente en companias como Google, Spotify, Platzi etc.
 
 Sus principales ventajas son la fácilidad de su aprendizaje, el fomento de las buenas prácticas de programación y la elegancia de su sintaxis.
+
+## ¿Qué es un algoritmo?
+
+Un algoritmo es una serie de pasos ordenados para resolver un problema. En programación los algoritmos son la base fundamental del programa, pues en última intancia un programa de computadora es un conjunto de algoritmos diseñados para ser interpretados y ejecutados por una computadora.
+
+Los algoritmos son creados con el fin de explicar un proceso que tiene un inicio y un fin. Esta serie de instrucciones debe estar expresada en términos concretos, de tal forma que no quede duda de lo que haya que hacer para que la ejecución sea exitosa.
+
+Un algorimo se divide en tres partes:
+
+- **Entrada**: son los requerimientos esenciales para llevar a cabo las instrucciones.
+- **Proceso**: se trata del conjunto de instrucciones o pasos a seguir para ejecutar el algoritmo.
+- **Salida**: es la resolución o fin del proceso.
