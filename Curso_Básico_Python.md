@@ -38,10 +38,23 @@ Sus principales ventajas son la fácilidad de su aprendizaje, el fomento de las 
 
 Un algoritmo es una serie de pasos ordenados para resolver un problema. En programación los algoritmos son la base fundamental del programa, pues en última intancia un programa de computadora es un conjunto de algoritmos diseñados para ser interpretados y ejecutados por una computadora.
 
-Los algoritmos son creados con el fin de explicar un proceso que tiene un inicio y un fin. Esta serie de instrucciones debe estar expresada en términos concretos, de tal forma que no quede duda de lo que haya que hacer para que la ejecución sea exitosa.
+Los algoritmos son creados con el fin de explicar un proceso que tiene un inicio y un fin, dicho de otra forma, un algoritmo es una serie finita de instrucciones que produce el mismo resultado. Esta serie de instrucciones debe estar expresada en términos concretos, de tal forma que no quede duda de lo que haya que hacer para que la ejecución sea exitosa.
 
 Un algorimo se divide en tres partes:
 
 - **Entrada**: son los requerimientos esenciales para llevar a cabo las instrucciones.
 - **Proceso**: se trata del conjunto de instrucciones o pasos a seguir para ejecutar el algoritmo.
 - **Salida**: es la resolución o fin del proceso.
+
+Los algoritmos pueden expresarse de forma gráfica mediante un **diagrama de flujo**, o no gráfica escribiendolos de forma literal.
+
+## La termnal
+
+La terminal es una interfaz gráfica basada en texto que se usa para interactuar con una computadora. Esta interfaz grafica recibe comandos de parte del usario y se los pasa a un **shell**. El **shell** interpreta lo que el usuario ha introducido y lo traduce en intrucciones concretas para el computador. Es decir, la terminal nos permite dar ordenes al computador por medio de comandos. 
+
+Esta herramienta es usada por programadores por que permite interactuar de una forma mas profunda controlada y eficiente, pudiendo automatizar tareas repetitivas a una mayor valocidad que con una interfaz gráfica.
+
+Algunos comandos básicos de la terminal son:
+
+**clear** ó **Crl + l**: Lipia la panatalla
+**ls**: lista (muestra) lo
