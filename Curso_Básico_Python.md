@@ -56,11 +56,11 @@ Esta herramienta es usada por programadores por que permite interactuar de una f
 
 Algunos comandos básicos de la terminal son:
 
-**clear** ó **Crl + l**: Lipia la panatalla.
-**cd {dir}**: (Change directory) Mueve la terminal al directorio indicado. Si no se indica se mueve al home.
-**ls**: Lista (muestra) los archivos y carpetas del directorio.
-**mkdir {name}**: Crea una nueva carpeta o directorio con el nombre indicado.
-**touch {name.ext}**: Crea un nuevo archivo con el nombre y la extension indicados.
+- **clear** ó **Crl + l**: Lipia la panatalla.
+- **cd {dir}**: (Change directory) Mueve la terminal al directorio indicado. Si no se indica se mueve al home.
+- **ls**: Lista (muestra) los archivos y carpetas del directorio.
+- **mkdir {name}**: Crea una nueva carpeta o directorio con el nombre indicado.
+- **touch {name.ext}**: Crea un nuevo archivo con el nombre y la extension indicados.
 
 Algunos comandos presentan distintas formas o variaciones las cuales son acesibles añadiendo **flags** o banderas al comando original, por ejemplo el comando **ls** tiene las siguientes variaciones:
 
