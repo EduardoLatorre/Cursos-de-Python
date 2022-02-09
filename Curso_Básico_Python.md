@@ -88,13 +88,13 @@ En Python existen los siguientes tipos de operadores:
 
 Los operadores aritméticos realizan operaciones matemáticas basicas como la suma, resta, multiplicación división etc. En Python estos operadores son:
 
-- **+**: Realiza la suma de dos números. Ejemplo 2 + 3 = 5
-- **-**: Realiza la resta de dos números. Ejemplo 2 - 3 = -1
-- **\***: Realiza la multiplicación de dos números. Ejemplo 2 * 3 = 6
-- **\*\***: Realiza la potencia de un número.  Ejemplo 2 ** 3 = 8. En este ejemplo se esta elevando 2 a la tercera potencia. (También pueden usarse potencias fraccionarias)
-- **/**: Realiza la división de dos números. Ejemplo 3 / 2 = 1.5 
-- **//**: Realiza la división entera de dos números.  Ejemplo 3 // 2 = 1. En el ejemplo 3 // 2 es 1 ya que 3 / 2 = 1.5 por lo que la parte entera es 1.
-- **%**: Realiza el módulo de un número con respecto a otro. La operación módulo devuelve el residuo de una división.   Ejemplo 3 % 2 = 1. En el ejemplo 3 % 2 es 1 ya que al dividir 3 entre 2 nos da 1 y como residuo nos queda 1.
+- **+** : Realiza la suma de dos números. Ejemplo 2 + 3 = 5
+- **-** : Realiza la resta de dos números. Ejemplo 2 - 3 = -1
+- **\*** : Realiza la multiplicación de dos números. Ejemplo 2 * 3 = 6
+- **\*\*** : Realiza la potencia de un número.  Ejemplo 2 ** 3 = 8. En este ejemplo se esta elevando 2 a la tercera potencia. (También pueden usarse potencias fraccionarias)
+- **/** : Realiza la división de dos números. Ejemplo 3 / 2 = 1.5 
+- **//** : Realiza la división entera de dos números.  Ejemplo 3 // 2 = 1. En el ejemplo 3 // 2 es 1 ya que 3 / 2 = 1.5 por lo que la parte entera es 1.
+- **%** : Realiza el módulo de un número con respecto a otro. La operación módulo devuelve el residuo de una división.   Ejemplo 3 % 2 = 1. En el ejemplo 3 % 2 es 1 ya que al dividir 3 entre 2 nos da 1 y como residuo nos queda 1.
 
 Para determinar el orden de las operaciones Python obedece la regla de la precedencia de operadores.
 
@@ -104,12 +104,12 @@ Primero paréntesis , potencias y raíces , multiplicaciones y divisiones , al f
 
 Un operador relacional compara y establece una relación entre operandos. Si el resultado de la comparación es correcto se devuelve el valor booleano **True**, en caso contrario se devuelve el valor booleano **False**. Estos operadores son:
 
-- **>**: Devuelve **True** si el operador de la izquierda es mayor al de la derecha. Ejemplo 3 > 2 = True
-- **<**: Devuelve **True** si el operador de la derecha es mayor al de la izquierda. Ejemplo 2 < 3 = True
-- **==**: Devuelve **True** si ambos operadores son iguales. Ejemplo (2 + 2) == 4 = True
-- **>=**: Devuelve **True** si el operador de la izquierda es mayor o igual al de la derecha. Ejemplo 3 >= 3 = True
-- **<=**: Devuelve **True** si el operador de la derecha es mayor o igual al de la izquierda. Ejemplo 2 <= 3 = True
-- **!=**: Devuelve **True** si ambos operadores no son iguales. Ejemplo (2 + 2) != 5 = True
+- **>** : Devuelve **True** si el operador de la izquierda es mayor al de la derecha. Ejemplo 3 > 2 = True
+- **<** : Devuelve **True** si el operador de la derecha es mayor al de la izquierda. Ejemplo 2 < 3 = True
+- **==** : Devuelve **True** si ambos operadores son iguales. Ejemplo (2 + 2) == 4 = True
+- **>=** : Devuelve **True** si el operador de la izquierda es mayor o igual al de la derecha. Ejemplo 3 >= 3 = True
+- **<=** : Devuelve **True** si el operador de la derecha es mayor o igual al de la izquierda. Ejemplo 2 <= 3 = True
+- **!=** : Devuelve **True** si ambos operadores no son iguales. Ejemplo (2 + 2) != 5 = True
 
 ## Operadores lógicos
 
