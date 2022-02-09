@@ -50,22 +50,75 @@ Los algoritmos pueden expresarse de forma gráfica mediante un **diagrama de flu
 
 ## La termnal
 
-La terminal es una interfaz gráfica basada en texto que se usa para interactuar con una computadora. Esta interfaz grafica recibe comandos de parte del usario y se los pasa a un **shell**. El **shell** interpreta lo que el usuario ha introducido y lo traduce en intrucciones concretas para el computador. Es decir, la terminal nos permite dar ordenes al computador por medio de comandos. 
+La terminal es una interfaz gráfica basada en texto que se usa para interactuar con una computadora. Esta interfaz grafica recibe comandos de parte del usuario y sé los pasa a un **shell**. El **shell** interpreta lo que el usuario ha introducido y lo traduce en instrucciones concretas para el computador. Es decir, la terminal nos permite dar ordenes al computador por medio de comandos. 
 
-Esta herramienta es usada por programadores por que permite interactuar de una forma mas profunda controlada y eficiente, pudiendo automatizar tareas repetitivas a una mayor valocidad que con una interfaz gráfica.
+Esta herramienta es usada por programadores por que permite interactuar de una forma más profunda controlada y eficiente, pudiendo automatizar tareas repetitivas a una mayor velocidad que con una interfaz gráfica.
 
 Algunos comandos básicos de la terminal son:
 
-- **clear** ó **Crl + l**: Lipia la panatalla.
+- **clear** ó **Crl + l**: Limpia la pantalla.
 - **cd {dir}**: (Change directory) Mueve la terminal al directorio indicado. Si no se indica se mueve al home.
 - **ls**: Lista (muestra) los archivos y carpetas del directorio.
 - **mkdir {name}**: Crea una nueva carpeta o directorio con el nombre indicado.
-- **touch {name.ext}**: Crea un nuevo archivo con el nombre y la extension indicados.
+- **touch {name.ext}**: Crea un nuevo archivo con el nombre y la extensión indicados.
 
-Algunos comandos presentan distintas formas o variaciones las cuales son acesibles añadiendo **flags** o banderas al comando original, por ejemplo el comando **ls** tiene las siguientes variaciones:
+Algunos comandos presentan distintas formas o variaciones las cuales son accesibles añadiendo **flags** o banderas al comando original, por ejemplo el comando **ls** tiene las siguientes variaciones:
 
 - **ls -l**: Lista los archivos y carpetas con toda la información de cada uno.
-- **ls -lh**: Lista los archivos y carpetas con toda la información de cada uno de una forma mas legible para el ser humano.
-- **ls -la**: Lista los archivos y carpetas incluyebdo los archivos ocultos.
-- **ls -lS**: Lista los archivos y carpetas comenzando con los mas pesados.
+- **ls -lh**: Lista los archivos y carpetas con toda la información de cada uno de una forma más legible para el ser humano.
+- **ls -la**: Lista los archivos y carpetas incluyendo los archivos ocultos.
+- **ls -lS**: Lista los archivos y carpetas comenzando con los más pesados.
 - **ls -lr**: Lista todos los elementos de forma inversa.
+
+## Operadores en Python
+
+Los operadores son símbolos que le indican a Python que realice una operación específica, como aritmética, comparación, lógica, etc.
+
+En Python existen los siguientes tipos de operadores:
+
+- Operadores aritm´rticos
+- Operadores relacionales
+- Operadores lógicos
+- Operadores Bit a Bit
+- Operadores de asignación
+- Operadores de pertenencia
+- Operadores de identidad
+
+### Operadores aritméticos
+
+Los operadores aritméticos realizan operaciones matemáticas basicas como la suma, resta, multiplicación división etc. En Python estos operadores son:
+
+- **+**: Realiza la suma de dos números. Ejemplo 2 + 3 = 5
+- **-**: Realiza la resta de dos números. Ejemplo 2 - 3 = -1
+- **\***: Realiza la multiplicación de dos números. Ejemplo 2 * 3 = 6
+- **\*\***: Realiza la potencia de un número.  Ejemplo 2 ** 3 = 8. En este ejemplo se esta elevando 2 a la tercera potencia. (También pueden usarse potencias fraccionarias)
+- **/**: Realiza la división de dos números. Ejemplo 3 / 2 = 1.5 
+- **//**: Realiza la división entera de dos números.  Ejemplo 3 // 2 = 1. En el ejemplo 3 // 2 es 1 ya que 3 / 2 = 1.5 por lo que la parte entera es 1.
+- **%**: Realiza el módulo de un número con respecto a otro. La operación módulo devuelve el residuo de una división.   Ejemplo 3 % 2 = 1. En el ejemplo 3 % 2 es 1 ya que al dividir 3 entre 2 nos da 1 y como residuo nos queda 1.
+
+Para determinar el orden de las operaciones Python obedece la regla de la precedencia de operadores.
+
+Primero paréntesis , potencias y raíces , multiplicaciones y divisiones , al final sumas y restas
+
+## Operadores Relacionales
+
+Un operador relacional compara y establece una relación entre operandos. Si el resultado de la comparación es correcto se devuelve el valor booleano **True**, en caso contrario se devuelve el valor booleano **False**. Estos operadores son:
+
+- **>**: Devuelve **True** si el operador de la izquierda es mayor al de la derecha. Ejemplo 3 > 2 = True
+- **<**: Devuelve **True** si el operador de la derecha es mayor al de la izquierda. Ejemplo 2 < 3 = True
+- **==**: Devuelve **True** si ambos operadores son iguales. Ejemplo (2 + 2) == 4 = True
+- **>=**: Devuelve **True** si el operador de la izquierda es mayor o igual al de la derecha. Ejemplo 3 >= 3 = True
+- **<=**: Devuelve **True** si el operador de la derecha es mayor o igual al de la izquierda. Ejemplo 2 <= 3 = True
+- **!=**: Devuelve **True** si ambos operadores no son iguales. Ejemplo (2 + 2) != 5 = True
+
+## Operadores lógicos
+
+
+
+## Operadores Bit a Bit
+
+## Operadores de asignación
+
+## Operadores de pertenencia
+
+## Operadores de identidad
